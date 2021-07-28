@@ -8,7 +8,7 @@ setup(
 	author = 'Group 3',                   # Type in your name
 	author_email = 'grapejam2312@gmail.com',      # Type in your E-Mail
 	url = 'https://github.com/Hour-Sirak/Hour-Sirak',   # Provide either the link to your github or to your website
-	download_url = 'https://github.com/Hour-Sirak/KeypadProteus/archive/refs/tags/v_01.tar.gz',    # I explain this later on
+	download_url = 'https://github.com/Hour-Sirak/Hour-Sirak/archive/refs/tags/v_01.tar.gz',    # I explain this later on
 	keywords = ['keypad', 'proteus'],   # Keywords that define your package best
 	install_requires=[],
 	classifiers=[
