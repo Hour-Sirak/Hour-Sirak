@@ -10,7 +10,7 @@ I'm a passionate **Software Developer** from Cambodia with a strong focus on bui
 - 💻 2+ years of hands-on experience in software development
 - 🧠 Strong backend focus with frontend support when needed
 - 🧑‍💻 I enjoy solving problems
-- ✨ When you see the spark of something started to work is awesome 
+- ✨ When you see the spark of something started to work, it feels awesome 
 
 > ⚠️ **Note**: I haven’t been very active on GitHub historically because most of my work has been done on **GitLab** — especially during work, university, and collaborative projects.  
 > But I’m gradually migrating and sharing more here too!
@@ -21,6 +21,7 @@ I'm a passionate **Software Developer** from Cambodia with a strong focus on bui
 
 ### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
